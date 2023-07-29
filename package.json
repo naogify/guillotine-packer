@@ -130,7 +130,10 @@
     "typescript": "^3.0.3"
   },
   "dependencies": {
-    "debug": "^4.1.1"
+    "debug": "^4.1.1",
+    "os": "^0.1.2",
+    "tty": "^1.0.1",
+    "util": "^0.12.5"
   },
   "husky": {
     "hooks": {
